@@ -21,8 +21,8 @@ This research develops objective methods to quantify spasticity and distinguish 
 
 This direction focuses on non-invasive assessment of muscle structure and function using 2D ultrasound, 3D freehand ultrasound, MRI, biomechanical measurement and computational modeling. Methods are developed to quantify muscle volume, architecture, composition, and mechanical properties, providing imaging-based biomarkers for neuromuscular and musculoskeletal disorders.
 
-![Muscle morphology and mechanical properties - 1](/assets/images/research/morphology-1.jpg)
-![Muscle morphology and mechanical properties - 2](/assets/images/research/morphology-2.jpg)
+<img src="/assets/images/research/morphology-1.jpg" alt="Muscle morphology and mechanical properties - 1" style="width:70%; height:auto;">
+<img src="/assets/images/research/morphology-2.jpg" alt="Muscle morphology and mechanical properties - 2" style="width:70%; height:auto;">
 
 ### Real-time wearable sensor based motion analysis platform
 
