@@ -18,28 +18,28 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Design for the Pluriverse
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+url     : "https://ruoliw.github.io"
+baseurl : ""
+title   : Ruoli Wang
+description: >- # this means to ignore newlines until "Language & timezone"
+  Associate Professor in Biomechanics at the Promobilia MoveAbility Lab, Department of Engineering Mechanics, KTH Royal Institute of Technology, Stockholm, Sweden. Affiliated with Karolinska Institutet.
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: en
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Fangyuan Chang
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
+  type      : person
+  name      : Ruoli Wang
+  url       : https://ruoliw.github.io
+  avatar    : /assets/images/40be16a9-9f0f-4a73-9e32-e8d5b3c091fb.png
+  bio       : Associate Professor in Biomechanics, KTH Royal Institute of Technology
+  email     : ruoli@kth.se
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: RuoliW/RuoliW.github.io
 repository_tree: master
 
 

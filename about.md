@@ -35,7 +35,7 @@ My research focuses on developing computational and experimental approaches to q
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
     <h4>Contact</h4>
-    <p style="font-size: medium;"><b>E-mail</b>: ruoli@kth.se<br>
+    <p style="font-size: medium;"><b>E-mail</b>: <a href="mailto:ruoli@kth.se">ruoli@kth.se</a><br>
       <b>Office phone</b>: +46 87906801<br>
       <b>Address</b>:<br>
       Promobilia MoveAbility Lab<br>
