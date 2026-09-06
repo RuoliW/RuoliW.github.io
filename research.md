@@ -1,8 +1,6 @@
 ---
 layout: article
 titles: Research
-aside:
-  toc: true
 ---
 
 ## Master's Thesis Projects

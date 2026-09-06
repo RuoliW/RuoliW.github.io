@@ -1,8 +1,6 @@
 ---
 layout: article
 titles: Supervision
-aside:
-  toc: true
 ---
 
 ## Main Supervisor

@@ -1,8 +1,6 @@
 ---
 layout: article
 titles: Publications
-aside:
-  toc: true
 ---
 
 ## Selected Peer-reviewed Journal Articles in Past Eight Years
