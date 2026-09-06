@@ -13,8 +13,8 @@ aside:
 
 ### Doctoral Students
 
-- **Zhongzheng Wang** — PhD, April 2025: *Quantification of Skeletal Muscle Morphology and Mechanical Properties Using Medical Imaging*
-- **Asta Kizyte** — PhD, May 2025: *Neuromechanical Assessment of Intact and Impaired Muscle Control: High-density EMG-informed approach*
+- **Zhongzheng Wang** — PhD, April 2025: [*Quantification of Skeletal Muscle Morphology and Mechanical Properties Using Medical Imaging*](https://kth.diva-portal.org/smash/get/diva2:1948336/FULLTEXT01.pdf)
+- **Asta Kizyte** — PhD, May 2025: [*Neuromechanical Assessment of Intact and Impaired Muscle Control: High-density EMG-informed approach*](https://www.diva-portal.org/smash/get/diva2:1956395/FULLTEXT01.pdf)
 - **Zhihao Duan** — since Nov 2022 (ongoing)
 - **Ruoyu Huang** — since Jan 2024 (ongoing)
 - **Zhaoyuan Wan** — since Feb 2024 (ongoing)
